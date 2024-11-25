@@ -1,9 +1,7 @@
 <template>
   <header>
     <nav>
-      <ul>
-       <NuxtPage></NuxtPage>
-      </ul>
+   adsad
     </nav>
   </header>
 </template>
